@@ -5,8 +5,8 @@ on:
     types: [started]
     
 env:
-  OLD_ROM_URL: https://hugeota.d.miui.com/20.7.30/miui_RAPHAEL_20.7.30_2061f26e97_10.0.zip
-  NEW_ROM_URL: https://hugeota.d.miui.com/20.8.4/miui_RAPHAEL_20.8.4_22b148a8c9_10.0.zip
+  OLD_ROM_URL: https://huxiabao.top/d/BylkaJGk/q/ZUK-Z2/Android-9-P/PixelExperience%28PE%29/PixelExperience_z2_plus-9.0-20191011-2018-OFFICIAL.zip?download=1
+  NEW_ROM_URL: https://firmware.meizu.com/Firmware/Flyme/16/8.1.5.0/cn/20200824152055/8654496b/update.zip
   TZ: Asia/Shanghai
 
 jobs:
